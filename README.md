@@ -12,7 +12,7 @@ A more or less fully reverse engineered firmware is available in this GitHub rep
 
 ## Speed-up video capture to show the result.
 
-<video src='images/walk-the-walk.mp4'></video>
+<video src='https://github.com/user-attachments/assets/5d559d9d-a579-46d8-a4c9-042f381659ba'></video>
 
 ## Patched jump
 ![patched-jump](images/patched-jump.png)
